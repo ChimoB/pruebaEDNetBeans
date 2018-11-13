@@ -7,7 +7,7 @@ package gitalumnado;
 
 /**
  *
- * @author ChimoB
+ * @author Autor
  */
 public class GITAlumnado {
 

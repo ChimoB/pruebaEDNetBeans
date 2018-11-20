@@ -10,5 +10,6 @@ package gitalumnado;
  * @author alumnoDAM
  */
 public class OOlivencia {
-    Matematicas.sqrt();
+    double num;
+    num=Math.sqrt(4);
 }

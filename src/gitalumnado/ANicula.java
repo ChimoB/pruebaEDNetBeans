@@ -11,5 +11,6 @@ package gitalumnado;
  * @author alumnoDAM
  */
 public class ANicula {
-    x = 667
+   int x=667;
+   
 }

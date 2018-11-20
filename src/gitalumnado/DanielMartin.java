@@ -9,6 +9,7 @@ package gitalumnado;
  *
  * @author alumnoDAM
  */
+import java.util.Scanner;
 public class DanielMartin {
-    Scanner xd = new Scanner(System.in);
+    Scanner teclado = new Scanner(System.in);
 }

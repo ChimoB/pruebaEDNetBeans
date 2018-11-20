@@ -10,5 +10,5 @@ package gitalumnado;
  * @author alumnoDAM
  */
 public class ABellido {
- x=7;   
+    int x=7;   
 }
